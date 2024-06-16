@@ -9,8 +9,8 @@ The PLC Schematic Library aims to provide comprehensive and detailed schematic d
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/plc-schematic-library.git
-    cd plc-schematic-library
+    git clone https://github.com/zilmina/OpenSchematicsForPLCs.git
+    cd OpenSchematicsForPLCs
     ```
 
 2. **Install KiCad**:
