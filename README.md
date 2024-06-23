@@ -2,9 +2,9 @@
 
 ## プロジェクト概要 / Project Overview
 
-OpenSchematicsForPLCsは、様々なPLCシステムの包括的かつ詳細な回路図を提供することを目指しています。ユーザーが高品質で正確なオープンソースの回路設計にアクセスできるようにします。このライブラリには、複数のメーカーのデザインが含まれており、単一のリポジトリに統一することでアクセスとコラボレーションを簡素化しています。コントリビューターは、製品のデータシートに記載されたリファレンスデザインに従い、KiCadを使用してリッチでコンポーネントに正確な回路図を作成することが推奨されています。このプロジェクトは、教育およびプロフェッショナルなニーズの両方をサポートすることを目的としています。
+OpenSchematicsForPLCsは、様々なPLCシステムの包括的かつ詳細な回路図を提供することを目指しています。ユーザーが高品質で正確なオープンソースの回路設計にアクセスできるようにします。このライブラリには、複数のメーカーのデザインが含まれており、単一のリポジトリに統一することでアクセスとコラボレーションを簡素化しています。このプロジェクトは、教育および業務ニーズの両方をサポートすることを目的としています。
 
-The OpenSchematicsForPLCs aims to provide comprehensive and detailed schematic diagrams for various PLC systems, ensuring that users have access to high-quality, accurate, and open-source circuit designs. This library includes designs from multiple manufacturers, unified under a single repository to streamline access and collaboration. Contributors are encouraged to adhere to reference designs provided in product datasheets and to create rich, component-accurate schematics using KiCad. This project is designed to support both educational and professional needs in the FA industry.
+The OpenSchematicsForPLCs aims to provide comprehensive and detailed schematic diagrams for various PLC systems, ensuring that users have access to high-quality, accurate, and open-source circuit designs. This library includes designs from multiple manufacturers, unified under a single repository to streamline access and collaboration. This project is designed to support both educational and professional needs in the FA industry.
 
 実験用電源遮断装置のリポジトリはOpenSchematicsForPLCsのサンプルであり、OpenSchematicsForPLCsをサブリポジトリとして利用しています。
 
@@ -36,9 +36,10 @@ The repository for the experimental power shutdown device serves as a sample for
 - [実験用電源遮断装置 / SafetyPowerSupply](https://github.com/zilmina/ExperimentalPowerShutdownDevice)
 
 ## 貢献方法 / Contributing
-
+コントリビューターは、製品のデータシートに記載されたリファレンスデザインに従い、KiCadを使用してリッチでコンポーネントに正確な回路図を作成することが推奨されています。
 コミュニティからの貢献を歓迎します。高い一貫性と品質を確保するため、以下のガイドラインに従ってください。
 
+Contributors are encouraged to adhere to reference designs provided in product datasheets and to create rich, component-accurate schematics using KiCad.
 We welcome contributions from the community. To ensure consistency and high quality, please follow these guidelines:
 
 1. **リファレンスデザインに従う / Adhere to Reference Designs**:
